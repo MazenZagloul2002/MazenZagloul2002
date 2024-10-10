@@ -29,18 +29,10 @@ Junior Data Analysis/AI Enthusiast with a passion for leveraging technology to s
 ## 🔗 Connect with Me
 
 [![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com](https://www.linkedin.com/in/mazen-zaghloul-5287941b7/))
-[![Facebook](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)]([https://www.kaggle.com](https://www.facebook.com/mazen.ihab.5))
 
 
----
 
-## 📄 Experience
 
-- **Data Science/AI Engineer** (Present)
-- **Manufacturing Engineer** at **CIMCON Digital** (Mar 2022 - Aug 2024)
-- **Data Science Intern** at **TwiLearn** (May 2023 - Aug 2023)
-
----
 
 
 
