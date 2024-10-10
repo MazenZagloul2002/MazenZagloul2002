@@ -28,7 +28,8 @@ Junior Data Analysis/AI Enthusiast with a passion for leveraging technology to s
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mazen-zaghloul)
+- [LinkedIn](https://www.linkedin.com/in/mazen-zaghloul)
+
 
 
 
