@@ -16,7 +16,6 @@ Junior Data Analysis/AI Enthusiast with a passion for leveraging technology to s
 
 
 ## 🛠️ Skills
-## 🛠️ Skills
 
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge)
