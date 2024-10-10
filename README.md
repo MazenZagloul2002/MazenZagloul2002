@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-Junior Data Analysis/AI Enthusiast with a passion for leveraging technology to solve real-world problems. I'm currently exploring opportunities in the fields of **Data Analysis ** and **AI**, 
+Junior Data Analysis/AI Enthusiast with a passion for leveraging technology to solve real-world problems. I'm currently exploring opportunities in the fields of **Data Analysis ** and **AI**
 
 
 
