@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mazen Zaghloul
 
-### Data Scientist/AI Engineer
+### Junior Data analyst | BI developer | python | MSSQL
 
 
 
@@ -16,13 +16,15 @@ Junior Data Analysis/AI Enthusiast with a passion for leveraging technology to s
 
 
 ## 🛠️ Skills
+## 🛠️ Skills
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?logo=huggingface&logoColor=black&style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-6e9dff?logo=langchain&logoColor=black&style=for-the-badge)
+
+
+
 
 ---
 
