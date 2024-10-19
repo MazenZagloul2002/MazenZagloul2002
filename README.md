@@ -7,12 +7,15 @@
 ---
 
 ## 🌟 About Me
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
-Junior Data Analysis/AI Enthusiast with a passion for leveraging technology to solve real-world problems. I'm currently exploring opportunities in the fields of **Data Analysis ** and **AI**
+Data Analysis/AI Enthusiast with a passion for leveraging technology to solve real-world problems. I'm currently exploring opportunities in the fields of **Data Analysis ** and **AI**
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analystr;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 ---
 
