@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mazen Zaghloul
 
-### Junior Data analyst | BI developer | python | MSSQL
+### Data analyst | BI developer | python | MSSQL
 
 
 
