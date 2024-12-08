@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-Data Analysis/AI Enthusiast with a passion for leveraging technology to solve real-world problems. I'm currently exploring opportunities in the fields of **Data Analysis ** and **AI**
+Data Analyst with a strong foundation in data processing, analysis, and visualization. Proficient in leveraging tools such as Excel, SQL, Power BI, and Python to transform complex data into actionable insights.
 
 
 ---
