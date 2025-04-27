@@ -1,5 +1,8 @@
 # Hi 👋, I'm Mazen Zaghloul
 
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
+
 ### Data analyst | BI developer | python | MSSQL
 
 
